@@ -1,0 +1,21 @@
+  .feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+    }
+
+    .orange {
+        background-color: orangered;
+    }
+
+    .white {
+        color: white
+    }
+
+    .orange_border {
+border: 1px solid orangered;
+    }
+
+    .text_orange {
+        color: orangered
+    }
